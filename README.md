@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **felisiag/felisiag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my GitHub! I encourage you to "Git Some!"  in everything you do!
+Welcome to my corner of GitHub! I encourage you to "Git Some!"  in everything you do!
 
 ![IMG_20180819_113248 (1)](https://user-images.githubusercontent.com/105524164/190191047-4107e271-3071-4eee-b3ef-d70c172bbdac.jpg)
