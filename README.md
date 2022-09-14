@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# My GIF
+![](https://media.giphy.com/media/LndF7W1Io8RGVqZcZF/giphy.gif)
 
-Welcome to my corner of GitHub! I encourage you to "Git Some!"  in everything you do!
+Welcome to my corner of GitHub! I encourage you to "Git Some!"  in everything you do! 
 
-![IMG_20180819_113248 (1)](https://user-images.githubusercontent.com/105524164/190191047-4107e271-3071-4eee-b3ef-d70c172bbdac.jpg)
+:bowtie:Profesh Stuff: www.linkedin.com/in/felisiagriner
+
+:grin:Stuff I'm digging rn: https://murdaughmurderspodcast.com/
+
+ 
