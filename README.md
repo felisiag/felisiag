@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# My GIF
+ 
 ![](https://media.giphy.com/media/LndF7W1Io8RGVqZcZF/giphy.gif)
 
 Welcome to my corner of GitHub! I encourage you to "Git Some!"  in everything you do! 
