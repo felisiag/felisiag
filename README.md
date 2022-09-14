@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 
 Welcome to my corner of GitHub! I encourage you to "Git Some!"  in everything you do! 
 
-:bowtie:Profesh Stuff: www.linkedin.com/in/felisiagriner
+:briefcase:Profesh Stuff: www.linkedin.com/in/felisiagriner
 
 :grin:Stuff I'm digging rn: https://murdaughmurderspodcast.com/
+
+:speech_balloon:Ask me about: My dogs :)
 
  
