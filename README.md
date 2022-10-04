@@ -25,4 +25,6 @@ Welcome to my corner of GitHub! I encourage you to "Git Some!"  in everything yo
 
 :speech_balloon:Ask me about: My dogs :)
 
+***Trust, but verify.***
+
  
